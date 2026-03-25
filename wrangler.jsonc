@@ -1,10 +1,10 @@
 {
-  "name": "tvtest1",
+  "name": "tv",
   "compatibility_date": "2025-08-22",
     "assets": {
        "directory": "./"
     },
 "vars": {
-"PASSWORD":"114514"
+"PASSWORD":""
 }
 }
